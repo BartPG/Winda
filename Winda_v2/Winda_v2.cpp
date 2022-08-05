@@ -1,7 +1,4 @@
-﻿// Winda_v2.cpp : Definiuje punkt wejścia dla aplikacji.
-//
-
-#include "framework.h"
+﻿#include "framework.h"
 #include "Winda_v2.h"
 
 #define MAX_LOADSTRING 100
